@@ -1,0 +1,13 @@
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.exe
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.deps.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.runtimeconfig.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.csproj.AssemblyReference.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.AssemblyInfo.cs
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.csproj.CoreCompileInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.genruntimeconfig.cache
